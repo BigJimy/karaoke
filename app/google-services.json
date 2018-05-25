@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "760817458468",
+    "firebase_url": "https://karaoke-85.firebaseio.com",
+    "project_id": "karaoke-85",
+    "storage_bucket": "karaoke-85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760817458468:android:f6327afffe6330ef",
+        "android_client_info": {
+          "package_name": "com.diamant.karaoke"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760817458468-epn5dkid536mlf6lpjtbkifk18u294al.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "760817458468-epn5dkid536mlf6lpjtbkifk18u294al.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN7PAr0kzKdBm5bBYujzae1VxEvIZ4JVw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
